@@ -7,10 +7,10 @@ Welcome to my GitHub profile!
 I am a data science student from India with a passion for turning data into actionable insights. My journey in data science includes:
 
 - **Programming Languages**: Python
-- **Data Analytics**: Exploratory Data Analysis (EDA)
 - **Machine Learning**: Building and deploying ML models
 - **Natural Language Processing (NLP)**: Text analysis and language models
 - **Image Processing**:Image enhancement
+- **Data Analysia**:EDA,MS EXCEL,Power BI
 
 ## My Projects
 
