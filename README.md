@@ -14,9 +14,7 @@
  
  🌱 I’m currently learned about **Python, Exploratory Data Analysis, NLP,Image Processing, ML, Excel, Power BI**
 
-💬 Ask me about **Python, Exploratory Data Analysis, Excel, Power BI... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **Python, Exploratory Data Analysis, Excel, Power BI... or anything [here](https://github.com/MushfinP/MushfinP/issues)**
 
  </div>
  
